@@ -13,7 +13,7 @@
 <h2 align="center"> We are supporting the Jumia Black Friday Project.
 	Landmark Technologies is a software development company. 
 	Class-32 will run from October 14, 2023, sponsored by Harqu.
-	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY (RCCG)</h2>
+	The shout of the King Jesus is amongst us. HE IS OUR SUCCESS ACCESS KEY (RCCG)</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
